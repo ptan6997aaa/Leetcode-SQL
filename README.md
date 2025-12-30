@@ -1,2 +1,2 @@
-# symmetrical-octo-barnacle 
+# Leetcode SQL 
 - Leetcode SQL 
